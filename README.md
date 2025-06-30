@@ -13,5 +13,7 @@ I'm on GitHub to bridge my knowledge gap on the more technical aspects of my com
 
 ## How to get in touch
 Email: ryan.hammon@sabinodb.com
+
 X: @hammon.ryan
+
 Linkedin: https://www.linkedin.com/in/ryanhammon/
